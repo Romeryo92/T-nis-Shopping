@@ -18,55 +18,55 @@ let produtos = [
     {
         id: 1,
         name: "PRODUTO 1",
-        imagem: "/1.PNG",
+        imagem: "1.png",
         price: 220
     },
     {
         id: 2,
         name: "PRODUTO 2",
-        imagem: "/2.PNG",
+        imagem: "2.png",
         price: 320
     },
     {
         id: 3,
         name: "PRODUTO 3",
-        imagem: "/3.PNG",
+        imagem: "3.png",
         price: 190
     },
     {
         id: 4,
         name: "PRODUTO 4",
-        imagem: "/4.PNG",
+        imagem: "4.png",
         price: 240
     },
     {
         id: 5,
         name: "PRODUTO 5",
-        imagem: "/5.PNG",
+        imagem: "5.png",
         price: 200
     },
     {
         id: 6,
         name: "PRODUTO 6",
-        imagem: "/6.PNG",
+        imagem: "6.png",
         price: 240
     },
     {
         id: 7,
         name: "PRODUTO 7",
-        imagem: "/7.PNG",
+        imagem: "7.png",
         price: 225
     },
     {
         id: 8,
         name: "PRODUTO 8",
-        imagem: "/8.PNG",
+        imagem: "8.png",
         price: 215
     },
     {
         id: 9,
         name: "PRODUTO 9",
-        imagem: "/9.PNG",
+        imagem: "9.png",
         price: 220
     },
 ]
